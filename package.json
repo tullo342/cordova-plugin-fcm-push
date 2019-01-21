@@ -1,0 +1,37 @@
+{
+  "version": "0.0.4",
+  "name": "cordova-plugin-fcm-push",
+  "cordova_name": "Cordova FCM Push Plugin",
+  "description": "Google Firebase Cloud Messaging Cordova Push Plugin",
+  "license": "MIT",
+  "repo": "",
+  "issue": "",
+  "authors": [
+   {
+    "name": "Rehan Manzoor",
+    "email": "rehan_manzoor@outlook.com"
+   }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rummykhan/cordova-plugin-fcm"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "notifications",
+    "push",
+    "firebase",
+    "fcm",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [],
+  "englishdoc": ""
+}
