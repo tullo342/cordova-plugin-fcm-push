@@ -1,3 +1,5 @@
+## This is a copy of https://github.com/rummykhan/cordova-plugin-fcm but i changed the Version of google-services, so it can be used with the cordova-plugin-googlemaps (https://github.com/mapsplugin/cordova-plugin-googlemaps.git). Have fun :)
+
 # Google Firebase Cloud Messaging Cordova Push Plugin
 > Extremely easy plug&play push notification plugin for Cordova applications with Google Firebase FCM.
 
